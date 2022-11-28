@@ -6,26 +6,26 @@ import MealItem from './MealItem/MealItem';
 const DUMMY_MEALS = [
   {
     id: 'm1',
-    name: 'Sushi',
-    description: 'Finest fish and veggies',
-    price: 22.99,
+    name: 'Michuí de Antílope',
+    description: 'Feito com carne de filé',
+    price: 23.99,
   },
   {
     id: 'm2',
-    name: 'Schnitzel',
-    description: 'A german specialty!',
+    name: 'Lombinho assado',
+    description: 'Com molho e legumes!',
     price: 16.5,
   },
   {
     id: 'm3',
     name: 'Barbecue Burger',
-    description: 'American, raw, meaty',
+    description: 'Comida preferida do Antílope',
     price: 12.99,
   },
   {
     id: 'm4',
     name: 'Green Bowl',
-    description: 'Healthy...and green...',
+    description: 'Para um almoço leve com o Antílope',
     price: 18.99,
   },
 ];
